@@ -1,6 +1,4 @@
-# leaflet-challenge
-
-# Earthquake Visualization Map
+# Leaflet-Challenge
 
 ## Overview
 This project visualizes real-time earthquake data from the USGS GeoJSON feed on an interactive map using Leaflet.js. The map displays earthquake locations, magnitudes, and depths with markers whose sizes and colors represent the earthquake's magnitude and depth, respectively.
