@@ -10,7 +10,6 @@ Interactive Map:
 Displays earthquake locations worldwide using the Leaflet.js library.
 
 ## Dynamic Marker Styling:
-
 Size: Reflects the earthquake's magnitude (larger magnitude = larger marker).
 Color: Represents the earthquake's depth (deeper earthquakes = darker colors).
 
